@@ -15,7 +15,7 @@ You need to have the gcloud SDK installed, and authenticated in your environment
 
 Supply the GCP Project ID as an argument.
 ```
-./gcp_list_public_ips.sh johndoe-1234
+./gcp_list_public_ips.sh SaylBlessings-1204
 8.8.8.8
 8.8.4.4
 ```
